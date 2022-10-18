@@ -1,0 +1,36 @@
+//TEMPO DEFINITIONS ACCORDING TO https://es.wikipedia.org/wiki/Tempo
+//IF THE INDICATION HAS MORE THAN ONE WORD IT SHOULD BE BETWEEN COMMAS AS "lento moderato" AND THEN A : AND THE PULSE VELOCITY
+
+let tempo = {
+larghissimo: 20,
+lento: 30,
+"lento moderato": 35,
+lentamente: 35,
+gravissimo: 35,
+grave: 40,
+largo: 40,
+larghetto: 50,
+adagio: 60,
+adagietto: 65,
+tranquillamente: 65,
+cantabile: 65,
+tranquilo: 70,
+afettuoso: 72,
+andante: 85,
+"andante moderato": 100,
+andantino: 80,
+"moderato espressivo": 75,
+moderato: 90,
+"allegretto grazioso": 100,
+allegretto: 90,
+"allegro moderato": 85,
+allegro: 120,
+"allegro assai": 110,
+vivace: 130,
+vivo: 130,
+allegrissimo: 140,
+vivacissimo: 150,
+vivacissimamente: 160,
+presto: 170,
+prestissimo: 200
+}

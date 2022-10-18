@@ -1,0 +1,45 @@
+solo
+cantabile
+col
+dolce
+dolcissimo
+a tempo
+in tempo
+stringendo
+string.
+poco string.
+poco stringendo
+rall.
+rallentando
+Maestoso
+espressivo
+espres.
+espress.
+molto
+poco
+legato
+più cresc. e poco a poco allarg.
+marcato
+down
+up
+d
+u
+demi-Pause.
+Soupir.
+grazioso
+poco cresc.
+(à peine ralenti)
+sostenu et les attaques très douces
+più
+ici
+(plutôt un peu élargi)
+bien sostenu
+presque sans rall.
+sostenuto
+sosten.
+variante (l'autre version est préférable)
+a piacimento
+(sim.)
+simile
+poco a poco
+perdendosi

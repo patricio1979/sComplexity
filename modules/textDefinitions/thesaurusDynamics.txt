@@ -1,0 +1,38 @@
+un poco cresc.
+un poco dim.
+crescendo
+cresc.
+diminuendo
+dimin.
+dim.
+sans diminuer
+p
+(p)
+f
+(f)
+mf
+(mf)
+mp
+(mp)
+ff
+(ff)
+pp
+(pp)
+fz
+(fz)
+sfz
+(sfz)
+piano
+forte
+fortissimo
+pianissimo
+sforzando
+più
+molto
+poco
+e cresc.
+cresc. molto
+cresc. poco a poco
+(fort)
+(sim.)
+simile
